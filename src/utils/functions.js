@@ -17,6 +17,7 @@ export const AddUser=(info)=>{
 }
 
 const tuncay= firebase
+console.log(tuncay)
 // Bilgi Çağırma
 
 export const useFetch=()=>{
