@@ -16,6 +16,7 @@ export const AddUser=(info)=>{
     })
 }
 
+const tuncay= firebase
 // Bilgi Çağırma
 
 export const useFetch=()=>{
